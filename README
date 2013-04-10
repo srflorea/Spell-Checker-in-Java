@@ -1,0 +1,6 @@
+In acest proiect am implementat modalitatea prin care motoarele de cautare
+performante realizeaza corectarea ortografica a utilizatorilor. Pentru
+realizarea acesteia am folosit un fisier ce simula o baza de date ce continea
+dictionarul meu. Cu ajutorul distantei Levenshtein si a unui algoritm de
+ce are la baza paradigma programarii dinamice programul reuseste intotdeauna
+sa sugereze cele mai apropiata cuvinte de cele pe care utilizatorul le introduce.
